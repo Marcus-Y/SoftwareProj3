@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello Jordan");
 		//Changed to Jordan
 		System.out.println("Hello Marcus");
-		//Added Hello Marcus
+		//Added Hello Marcus.
 	}
 
 }
