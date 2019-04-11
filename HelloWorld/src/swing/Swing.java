@@ -9,7 +9,12 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JTextField;
 
 public class Swing extends JFrame {
-
+	// make sure to add your name in the swing app and make a comment on it.
+	
+	//added Marcus to swing app
+	
+	
+	
 	private JPanel contentPane;
 	private JTextField txtMarcus;
 
