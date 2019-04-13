@@ -7,6 +7,8 @@ public class HelloWorld {
 		//Changed to Jordan
 		System.out.println("Hello Marcus");
 		//Added Hello Marcus.
+		System.out.println("Hello Hoang");
+		//Added Hoang to Hello World.
 	}
 
 }
