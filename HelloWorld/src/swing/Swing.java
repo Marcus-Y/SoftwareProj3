@@ -46,7 +46,7 @@ public class Swing extends JFrame {
 		setContentPane(contentPane);
 		
 		txtMarcus = new JTextField();
-		txtMarcus.setText("Marcus + Jason ");
+		txtMarcus.setText("Marcus + Jason");
 		contentPane.add(txtMarcus, BorderLayout.CENTER);
 		txtMarcus.setColumns(10);
 	}
