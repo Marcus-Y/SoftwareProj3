@@ -8,7 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello Marcus");
 		//Added Hello Marcus.
 		System.out.println("Hello Hoang");
-		//Added Hoang to Hello World.
+		//Added Hello Hoang.
 	}
 
 }
