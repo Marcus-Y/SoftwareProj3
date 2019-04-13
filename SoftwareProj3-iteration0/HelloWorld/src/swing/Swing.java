@@ -13,6 +13,7 @@ public class Swing extends JFrame {
 	
 	//added Marcus to swing app
 	//added Jordan to swing app
+	//added Hoang to swing app
 	
 	
 	private JPanel contentPane;
